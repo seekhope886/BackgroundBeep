@@ -77,11 +77,16 @@ A lightweight non-visible extension for MIT App Inventor that plays **10 differe
 | :--- | :--- | :--- | :--- |
 | `SoundType` | Number | `1` | The index of the sound type (1–10). |
 | `Volume` | Number | `50` | The playback volume level (0–100). |
+<img width="203" height="59" alt="blocks1" src="https://github.com/user-attachments/assets/71d3dbe3-0bc0-4c6f-9bd6-9b108ac5cbdd" />
 
 ## 📦 Methods
 
 * **`Play()`**: Plays the currently configured `SoundType`.
+<img width="203" height="59" alt="blocks1" src="https://github.com/user-attachments/assets/71d3dbe3-0bc0-4c6f-9bd6-9b108ac5cbdd" />
+
 * **`PlaySoundType(type)`**: Instantly plays a specific sound index (1–10).
+<img width="192" height="46" alt="blocks3" src="https://github.com/user-attachments/assets/34296086-4a0f-4d6c-b37d-717b0cb94e0e" />
+
 * **`Stop()`**: Immediately stops the currently playing sound.
 
 ## 🔔 Events
