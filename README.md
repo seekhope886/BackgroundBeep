@@ -23,8 +23,10 @@
 
 * **`Play()`**: 播放目前設定的 `SoundType`。
 <img width="137" height="33" alt="blocks2" src="https://github.com/user-attachments/assets/2ee0f2ba-c2ef-4019-9d45-971c3a9febe2" />
+
 * **`PlaySoundType(type)`**: 直接播放指定的音效索引 (1–10)。
 <img width="192" height="46" alt="blocks3" src="https://github.com/user-attachments/assets/34296086-4a0f-4d6c-b37d-717b0cb94e0e" />
+
 * **`Stop()`**: 立即停止目前播放的音效。
 
 ## 🔔 事件 (Events)
